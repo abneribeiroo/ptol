@@ -1,0 +1,3 @@
+directory: "/home/abner/side_projects/ptol/code/"  # Diretório que será monitorado
+delay: "2s"                  # Atraso antes de reiniciar o processo (em segundos)
+script: "/home/abner/side_projects/ptol/code/teste.js"     # Script que será executado
